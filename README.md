@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <img src="https://github.com/SamuelDias91/Projeto-CSS-We-Care/blob/master/img/We-Care-Desktop.png?raw=true"/>
-<img src="https://github.com/SamuelDias91/Projeto-CSS-We-Care/blob/master/img/We-Care-mobile.png?raw=true"/>
+<img src="https://github.com/SamuelDias91/Projeto-CSS-We-Care/blob/master/img/We-Care-mobile.png?raw=true" width=750px />
